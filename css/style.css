@@ -1,0 +1,49 @@
+
+body{
+
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 2000px 800px;
+}
+#title{
+	
+	text-align: center;
+	color: #CCCCCC;
+	margin-top: 30px;
+	letter-spacing: 5px;
+	font-size: 80px;
+	font-family: serif;
+	text-decoration-line: underline;
+}
+
+#turn{
+	vertical-align: top;
+	text-align: center;
+	font-size: 50px;
+	color:#99FF99;
+}
+
+#p00,#p01,#p02,#p10,#p11,#p12,#p20,#p21,#p22{
+
+	text-decoration-color: #660066;
+	width: 85px;
+	height: 85px;
+	background-color: #CCCC99;
+	font-size: 30px;
+	margin: 5px;
+}
+
+#matrix{
+
+	text-align: center;
+	vertical-align: top;
+	margin-bottom: 5px;
+}
+
+#newgame{
+	
+	    text-align: center;
+}
+
+
+
